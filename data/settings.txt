@@ -1,4 +1,4 @@
 active=mainMenu
-currentLevel=2
-totalEnemiesKilled=2073
-minTimes=27,25,30
+currentLevel=0
+totalEnemiesKilled=0
+minTimes=0,0,0
